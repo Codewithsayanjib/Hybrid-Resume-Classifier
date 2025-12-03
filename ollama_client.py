@@ -1,4 +1,4 @@
-# ollama_client.py
+
 import requests
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
@@ -17,7 +17,7 @@ def call_ollama(prompt: str, model_name: str) -> str:
             "prompt": prompt,
             "stream": False,
             "options": {
-                "temperature": 0  # deterministic
+                "temperature": 0  
             }
         },
         timeout=120
@@ -53,5 +53,5 @@ Text:
         if label.lower() in cleaned:
             return label
 
-    # Fallback if model returns something unexpected
+    
     return "Other"
