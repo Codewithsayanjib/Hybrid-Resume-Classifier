@@ -1,0 +1,126 @@
+[
+  {
+    "text": "B.Tech in Computer Science and Engineering from Jadavpur University (2020–2024)",
+    "label": "Education"
+  },
+  {
+    "text": "M.Tech in Information Technology at NIT Trichy (2025–2027)",
+    "label": "Education"
+  },
+  {
+    "text": "B.Tech in Electrical Engineering from IIT Delhi (2019–2023)",
+    "label": "Education"
+  },
+  {
+    "text": "Integrated BS-MS in Data Science at IISER Pune (2018–2023)",
+    "label": "Education"
+  },
+  {
+    "text": "Ph.D. scholar at IISc Bangalore focusing on machine learning systems",
+    "label": "Education"
+  },
+  {
+    "text": "MBBS undergraduate at AIIMS Kalyani with interest in medical informatics",
+    "label": "Education"
+  },
+
+  {
+    "text": "Skills: Python, SQL, Power BI, Machine Learning, Data Analysis",
+    "label": "Skills"
+  },
+  {
+    "text": "Proficient in C, C++, Python, and Java with strong foundation in data structures",
+    "label": "Skills"
+  },
+  {
+    "text": "Hands-on experience with PyTorch, NumPy, Pandas, and scikit-learn",
+    "label": "Skills"
+  },
+  {
+    "text": "Technical skills include cloud fundamentals, REST APIs, and Docker basics",
+    "label": "Skills"
+  },
+  {
+    "text": "Skilled in statistical analysis, data visualization, and exploratory data analysis",
+    "label": "Skills"
+  },
+  {
+    "text": "Working knowledge of NLP, text preprocessing, and prompt engineering",
+    "label": "Skills"
+  },
+
+  {
+    "text": "Software Engineering Intern at a SaaS startup, developed backend APIs using Python",
+    "label": "Experience"
+  },
+  {
+    "text": "Machine Learning Intern at an AI research lab, worked on text classification models",
+    "label": "Experience"
+  },
+  {
+    "text": "Research intern at IIT Delhi, assisted in benchmarking ML models for tabular data",
+    "label": "Experience"
+  },
+  {
+    "text": "Data Analyst Intern at a healthcare analytics company, built Power BI dashboards",
+    "label": "Experience"
+  },
+  {
+    "text": "Teaching Assistant for Data Structures course at Jadavpur University",
+    "label": "Experience"
+  },
+  {
+    "text": "Worked as a project intern at IISc Bangalore on scalable data processing pipelines",
+    "label": "Experience"
+  },
+
+  {
+    "text": "Built a fake news detection system using NLP and classical machine learning models",
+    "label": "Projects"
+  },
+  {
+    "text": "Developed an air quality forecasting system using regression models and public data",
+    "label": "Projects"
+  },
+  {
+    "text": "Designed a resume parsing pipeline combining rule-based methods and language models",
+    "label": "Projects"
+  },
+  {
+    "text": "Implemented a customer support ticket classification system using text features",
+    "label": "Projects"
+  },
+  {
+    "text": "Created a Flask-based web application to deploy a trained ML model",
+    "label": "Projects"
+  },
+  {
+    "text": "Built an agentic workflow to iteratively refine text summaries",
+    "label": "Projects"
+  },
+
+  {
+    "text": "Actively exploring language models and agentic AI architectures",
+    "label": "Other"
+  },
+  {
+    "text": "Interested in pursuing a research-oriented career in machine learning",
+    "label": "Other"
+  },
+  {
+    "text": "Attended workshops on AI systems, evaluation frameworks, and reproducibility",
+    "label": "Other"
+  },
+  {
+    "text": "GATE Computer Science 2025 qualified with strong percentile",
+    "label": "Other"
+  },
+  {
+    "text": "Volunteered in technical fests and student-led coding communities",
+    "label": "Other"
+  },
+  {
+    "text": "Interested in interdisciplinary applications of AI in healthcare and education",
+    "label": "Other"
+  }
+]
