@@ -1,4 +1,4 @@
-# evaluate.py
+
 import json
 from pathlib import Path
 
@@ -62,7 +62,7 @@ def evaluate_model(model_name: str, verbose: bool = True):
         print(f"Rule-based used: {rule_used} times, correct: {rule_correct}, acc={rule_acc:.2f}")
         print(f"SLM fallback used: {slm_used} times, correct: {slm_correct}, acc={slm_acc:.2f}")
 
-    # Return metrics so we can compare models from another script
+    
     return {
         "model": model_name,
         "total": total,
