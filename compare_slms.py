@@ -1,4 +1,4 @@
-# compare_models.py
+
 from evaluate import evaluate_model
 
 MODELS = [
