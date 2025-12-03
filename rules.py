@@ -1,7 +1,7 @@
-# rules.py
+
 import re
 
-# Define patterns for each label
+
 RULES = {
     "Education": [
         r"\bb\.?tech\b",
