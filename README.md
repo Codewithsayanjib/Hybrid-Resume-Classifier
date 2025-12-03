@@ -65,7 +65,7 @@ This ensures a fair, controlled comparison.
 ## Dataset
 
 - 30 manually created resume lines
-- Covers multiple institutions (Jadavpur University, IIT Delhi, IISER Pune, IISc Bangalore, AIIMS Kalyani)
+- Covers diverse institutions 
 - Includes both structured and ambiguous entries
 - Labels assigned manually
 
